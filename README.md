@@ -1,5 +1,7 @@
-# app1
-
+# Tic Tac Toe - Flutter Game 
+## Features
+- 1 player game
+- 2 player game
 A new Flutter project.
 
 ## Getting Started
